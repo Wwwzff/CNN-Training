@@ -2,11 +2,14 @@
 ## Cnn
 ### Reference&Dataset
 Methods found on CSDN in the following link and modified by chester@bu.edu
+```
 https://blog.csdn.net/Mbx8X9u/article/details/79124840?utm_source=blogxgwz0
+```
 
 This program use models from keras and combined with tensorflow to train a dataset with dogs and cats. Datasets could be found in the following link:
+```
 https://www.kaggle.com/c/dogs-vs-cats/data
-
+```
 ### Hyper Parameters
 - batch size 32
 - learning rate 0.01
