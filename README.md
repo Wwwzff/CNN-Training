@@ -16,7 +16,7 @@ https://www.kaggle.com/c/dogs-vs-cats/data
 - epoch (at most) 50
 
 ### Early Stopping
-Training will be stopped if validation loss doesn't change for consecutive 2 epochs 
+Training will be stopped if validation loss doesn't change for 2 consecutive epochs 
 
 ### Running Environment
 - ubuntu 18.04
