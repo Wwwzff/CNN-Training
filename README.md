@@ -1,7 +1,7 @@
 # MiniProject2
 This project mainly focus on the beginning methods of the machine learning. Given a picture and predict whether it's a cat or dog.
 ## Dataset
-Dataset can be download from kaggle in the following link:
+Dataset can be downloaded from kaggle in the following link:
 ```
 https://www.kaggle.com/c/dogs-vs-cats/data
 ```
