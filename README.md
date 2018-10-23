@@ -11,7 +11,7 @@ https://www.kaggle.com/c/dogs-vs-cats/data
 - jupyter notebook
 
 ## Cnn
-### Reference&Dataset
+### Reference
 Methods found on CSDN in the following link and modified by chester@bu.edu
 ```
 https://blog.csdn.net/Mbx8X9u/article/details/79124840?utm_source=blogxgwz0
@@ -27,3 +27,6 @@ Training will be stopped if validation loss doesn't change for 2 consecutive epo
 
 ### result
 You can find result in the file called CNN-Result.html
+
+##3model,py
+There're three models inplemented in the python script, you can use the file structure set by the cnn.py and train directly on your trainingset
