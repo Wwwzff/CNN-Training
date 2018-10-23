@@ -34,3 +34,7 @@ Resize the pic to 197*197, which should be concerned when using test.py to test 
 * Training result can be found in the .html file 
 * Result from the tester are showed below:
 <img src="https://github.com/Wwwzff/MiniProject2/blob/master/results/test_result.png" />
+* Trained models are too big to upload, but can be downloaded using link below (need bu email):
+```
+https://drive.google.com/file/d/1R-Ab3tGMXtZ_pk7sNLJQpEmFDUH9BNfn/view?usp=sharing
+```
