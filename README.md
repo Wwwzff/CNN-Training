@@ -27,7 +27,7 @@ Training will be stopped if validation loss doesn't change for 2 consecutive epo
 
 
 ## 3model.py
-There're three models inplemented in the python script, you can use the file structure set by the cnn.py and train directly on your trainingset
+There're three models inplemented in the python script, and you can use the file structure set by the cnn.py and train directly on your trainingset
 
 ## Result
 * Training result can be found in the .html file 
