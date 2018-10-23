@@ -30,5 +30,6 @@ Training will be stopped if validation loss doesn't change for 2 consecutive epo
 There're three models inplemented in the python script, you can use the file structure set by the cnn.py and train directly on your trainingset
 
 ## Result
-Training result can be found in the .html file ,and result from the tester are showed below:
+* Training result can be found in the .html file 
+* Result from the tester are showed below:
 <img src="https://github.com/Wwwzff/MiniProject2/blob/master/results/test_result.png" />
