@@ -1,5 +1,5 @@
 # MiniProject2
-This project mainly focus on the beginning methods of the machine learning. Given a picture and predict whether it's a cat or dog.
+This project mainly focus on the beginning methods of the machine learning. Given a picture and predict whether it's a cat or dog. Contact with chesterw@bu.edu or wechatID Wwwwzf- if having trouble with code reviewing stuffs. 
 ## Dataset
 Dataset can be downloaded from kaggle in the following link:
 ```
