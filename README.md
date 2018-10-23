@@ -25,8 +25,10 @@ https://blog.csdn.net/Mbx8X9u/article/details/79124840?utm_source=blogxgwz0
 Training will be stopped if validation loss doesn't change for 2 consecutive epochs 
 
 
-### result
-You can find result in the file called CNN-Result.html
 
-##3model,py
+## 3model,py
 There're three models inplemented in the python script, you can use the file structure set by the cnn.py and train directly on your trainingset
+
+## Result
+Training result can be found in the .html file ,and result from the tester are showed below:
+<img src="https://github.com/Wwwzff/MiniProject2/blob/master/results/test_result.png" />
