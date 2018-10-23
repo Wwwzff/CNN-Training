@@ -29,6 +29,7 @@ Training will be stopped if validation loss doesn't change for 2 consecutive epo
 ## 3model.py
 There're three models inplemented in the python script, and you can use the file structure set by the cnn.py and train directly on your trainingset
 
+Resize the pic to 197*197, which should be concerned when using test.py to test your own pics (resize your own pics to fit with the model)
 ## Result
 * Training result can be found in the .html file 
 * Result from the tester are showed below:
