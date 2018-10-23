@@ -20,7 +20,7 @@ https://blog.csdn.net/Mbx8X9u/article/details/79124840?utm_source=blogxgwz0
 - batch size 32
 - learning rate 0.01
 - epoch (at most) 50
-
+- resize pics to 150*150
 ### Early Stopping
 Training will be stopped if validation loss doesn't change for 2 consecutive epochs 
 
